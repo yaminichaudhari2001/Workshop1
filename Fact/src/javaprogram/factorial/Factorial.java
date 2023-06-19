@@ -1,6 +1,4 @@
 package javaprogram.factorial;
-
-import java.util.Scanner;
 import java.util.Scanner;
 public class Factorial {
     public static void main(String[] args) {
